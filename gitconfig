@@ -48,6 +48,6 @@
   mergeoptions = --no-edit
 [user]
 	email = euperezautran@gmail.com
-	name = eugenio perez
+	name = Eugenio Perez
 [credential "https://github.com"]
 	helper = !gh auth git-credential
